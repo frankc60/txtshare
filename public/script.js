@@ -10,7 +10,7 @@ Y({
     name: 'websockets-client',
     room: 'Textarea-example'
   },
-  sourceDir: '/bower_components',
+  sourceDir: '/.',
   share: {
     textarea: 'Text' // y.share.textarea is of type Y.Text
   }
