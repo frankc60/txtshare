@@ -1,5 +1,5 @@
 
 ## txtshare
-NOT BEING USED ANYMORE. 
+NOT BEING DEVELOPED OR WORKED ON ANYMORE. 
 
-Contqct me if you want any info, thanks.
+Please contact me if you want any info, thanks.
